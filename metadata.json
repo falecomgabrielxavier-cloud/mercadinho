@@ -1,0 +1,5 @@
+{
+  "name": "Mercadinho do Bairro Inteligente",
+  "description": "Uma aplicação de e-commerce moderna para um mercadinho local, com um assistente de receitas inteligente que sugere pratos com base nos itens do seu carrinho, tudo com tecnologia Gemini.",
+  "requestFramePermissions": []
+}
